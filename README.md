@@ -8,7 +8,7 @@ I'm passionate about frontend development and UX/UI design, and currently learni
 After graduation, I hope to work as a Frontend Developer,  
 and if possible, pursue a Master's degree in the future.
 
-In my free time, I love playing games with friends on Discord—it helps me relax and stay connected.
+In my free time, I enjoy spending time with friends and exploring new things in tech and design.
 
 ## Skill & Tools
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,python,c,nodejs,vscode,git,postman,figma&theme=dark)
