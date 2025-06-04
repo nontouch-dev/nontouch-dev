@@ -11,4 +11,4 @@ and if possible, pursue a Master's degree in the future.
 In my free time, I love playing games with friends on Discord—it helps me relax and stay connected.
 
 ## Skill & Tools
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,nodejs,vscode,git,postman,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,c,nodejs,vscode,git,postman,figma&theme=dark)
