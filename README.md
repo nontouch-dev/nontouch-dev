@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nontouch</h1>
+## About me
 
-<!--
-**nontouch-dev/nontouch-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Computer Engineering student at Pibulsongkram Rajabhat University,  
+Faculty of Industrial Technology.
 
-Here are some ideas to get you started:
+I'm passionate about frontend development and UX/UI design, and currently learning how to work with databases and build APIs to create clean, user-friendly interfaces that deliver great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After graduation, I hope to work as a Frontend Developer,  
+and if possible, pursue a Master's degree in the future.
+
+In my free time, I love playing games with friends on Discord—it helps me relax and stay connected.
+
+## Skill & Tools
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,nodejs,vscode,git,postman,figma&theme=dark)
